@@ -29,7 +29,7 @@ class Program
             Console.Write("(2)Введите имя студента: ");
             string name2 = Console.ReadLine()!;
             
-            students.AddStudentManually(name2);
+            studentsAsync.AddStudentAsync(name2);
             
             students.ShowAllStudentsManually();
             studentsAsync.ShowAllStudentsAsync();

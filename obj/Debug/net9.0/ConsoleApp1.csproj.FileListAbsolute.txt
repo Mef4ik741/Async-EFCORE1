@@ -159,3 +159,4 @@ C:\Users\nebiy\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\Microsoft.
 C:\Users\nebiy\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\Microsoft.Extensions.Logging.Configuration.dll
 C:\Users\nebiy\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\Microsoft.Extensions.Logging.Console.dll
 C:\Users\nebiy\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\nebiy\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
